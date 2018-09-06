@@ -44,7 +44,7 @@ export default {
     return {
       logo: {
         src: `${this.uploadsUrl}sites/ByvFbNlQYVwhvTyBgLdqitchoacDNznN.jpg`,
-        title: 'VuejsCaff'
+        title: 'VueBBs'
       },
       navList: ['社区', '头条', '问答', '教程'],
       activeNavIndex: 0,

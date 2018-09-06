@@ -1,0 +1,9 @@
+{
+  "globalDevDependencies": {
+    "pug": "registry:dt/pug#2.0.0+20161229235626"
+  },
+  "globalDependencies": {
+    "highlight.js": "registry:dt/highlight.js#9.1.0+20161227120821",
+    "moment": "registry:dt/moment#2.11.1+20161010105546"
+  }
+}

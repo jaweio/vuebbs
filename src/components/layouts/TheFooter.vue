@@ -62,7 +62,7 @@ export default {
   name: 'TheFooter',
   data() {
     return {
-      description: 'VuejsCaff 是一个 Vue.js 的知识社区',
+      description: 'VueBBs 是一个 Vue.js 的知识社区',
       contacts: [
         {
           icon: 'envelope',

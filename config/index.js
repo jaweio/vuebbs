@@ -44,7 +44,7 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     //需要GitHub Page 改成'/vuebbs/dist/'  默认'/'
-    assetsPublicPath: '/vuebbs/dist',
+    assetsPublicPath: '/vuebbs/dist/',
 
     /**
      * Source Maps

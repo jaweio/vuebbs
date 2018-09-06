@@ -43,7 +43,7 @@ export default {
   data() {
     return {
       logo: {
-        src: `${this.uploadsUrl}sites/ByvFbNlQYVwhvTyBgLdqitchoacDNznN.jpg`,
+        src: `https://vuejs.org/images/logo.png`,
         title: 'VueBBs'
       },
       navList: ['社区', '头条', '问答', '教程'],
